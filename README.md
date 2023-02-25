@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=700&size=28&duration=1200&pause=500&color=1384f7&background=6ECF4200&center=true&vCenter=true&multiline=true&width=500&height=150&lines=WHATS+UP+WORLD!;MY+NAME+IS+ALEX; AND+I'M; QA+AUTOMATION+ENGINEER" alt="Typing SVG" /></a> 
 
 <div align="center">
-  <img src="https://serving.photos.photobox.com/192237191f04d6a3a67ee45158969657b91ce184eb1efcd1b58778de573b196a5d02761d.jpg" width="1900" height="300"/>
+  <img src="https://serving.photos.photobox.com/192237191f04d6a3a67ee45158969657b91ce184eb1efcd1b58778de573b196a5d02761d.jpg" width="1900" height="280"/>
 </div>
 
 <!--
