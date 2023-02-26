@@ -88,8 +88,4 @@
 </div>
 
 <hr>
-<div align="center">
 
-#######
- 
- </div>
