@@ -1,11 +1,12 @@
-<div align="center"><h1> Hello Tech World ! 👋 </h1></div>
+<div align="center">
 
-<div align="center"><h3> Well. I'm Software QA Automation Engineer with over :four: years of experience.</h3></div>
+<img src="https://github.com/Alexandrkinvincible/Alexandrkinvincible/blob/main/ezgif.com-gif-maker.gif"/>
 
+</div>
 
 <details>
 <summary><div align="center"><h2>
-::point_right: Press here to read more About me :point_left:
+✨&nbsp; Press here to read more About me ✨&nbsp;
 </summary></h2></div>
 
 * In my hands-on experience in Quality Assurance, i do Manual and Automation performance and load Testing of Desktop and Mobile Web, Client/Server, and Cloud Based Applications. I developed Solid practical knowledge of SDLC, software testing processes and automation techniques; Front-End, Back-End, End-to-End regression and Performance testing. Working knowledge of the Agile / SCRUM / Waterfall software testing methodologies..
@@ -20,14 +21,16 @@
 [![Gmail](https://img.shields.io/badge/-Email-090909?style=for-the-badge&logo=Gmail&logoColor=rd)](mailto:laveganfitness@gmail.com)
 
 <div align="center">
-  <img src="https://serving.photos.photobox.com/192237191f04d6a3a67ee45158969657b91ce184eb1efcd1b58778de573b196a5d02761d.jpg" width="1900" height="280"/>
+  <img src="https://github.com/Alexandrkinvincible/Alexandrkinvincible/blob/main/NOT404.jpg" width="1900" height="280"/>
 </div>
-
+<hr>
 
 <div align="center">
  <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=700&size=28&duration=1800&pause=3000&color=0c0062&background=6ECF4200&center=true&vCenter=true&multiline=true&width=600&height=53&lines=🛠+Technologies+and+tools+I'm+working+with:" alt="Typing SVG" /></a> 
 </div>
 
+
+<div align="center">
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height="30" /> &nbsp;
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="30" /> &nbsp;
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30" /> &nbsp;
@@ -74,21 +77,19 @@
 <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" height="30" /> &nbsp;
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="30" /> &nbsp;
 <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" height="30" /> &nbsp;
+</div>
 
+<hr>
 
+<div align="center">
+ 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexandrkinvincible&theme=gotham&show_icons=true&)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
 
-<!--
-**Alexandrkinvincible/Alexandrkinvincible** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
+<div align="center">
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#######
+ 
+ </div>
