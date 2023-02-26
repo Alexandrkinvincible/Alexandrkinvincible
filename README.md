@@ -21,7 +21,7 @@
 [![Gmail](https://img.shields.io/badge/-Email-090909?style=for-the-badge&logo=Gmail&logoColor=rd)](mailto:laveganfitness@gmail.com)
 
 <div align="center">
-  <img src="https://github.com/Alexandrkinvincible/Alexandrkinvincible/blob/main/NOT404.jpg" width="1900" height="280"/>
+  <img src="https://github.com/Alexandrkinvincible/Alexandrkinvincible/blob/main/NOT404.jpg" width="1900" height="250"/>
 </div>
 <hr>
 
