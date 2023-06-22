@@ -4,21 +4,24 @@
 
 </div>
 
-<details>
-<summary><div align="center"><h2>
-✨&nbsp; Press here to read more About me ✨&nbsp;
-</summary></h2></div>
 
-* In my hands-on experience in Quality Assurance, i do Manual and Automation performance and load Testing of Desktop and Mobile Web, Client/Server, and Cloud Based Applications. I developed Solid practical knowledge of SDLC, software testing processes and automation techniques; Front-End, Back-End, End-to-End regression and Performance testing. Working knowledge of the Agile / SCRUM / Waterfall software testing methodologies..
- 
-* Studied at: **QA Automation Engineer Course at Silicon Valley CA** :brain:
+<div align="center"><h2>
+✨&nbsp; Press here to read more About me ✨&nbsp;
+</h2></div>
+
+* In my hands-on experience in Quality Assurance, i do Manual and Automation performance and load Testing of Desktop and Mobile Web, Client/Server, and Cloud Based Applications. End-to-End, regression, performance and other types of testing. Working knowledge of the Agile / SCRUM / Waterfall software testing methodologies..
 * Fast Learner and totally team player ! :octocat::octocat::octocat::octocat:
 * I fell that i'm tallanted in many ways. I love sports :weight_lifting_man: :lotus_position_man:, reading books :open_book:, traveling :mountain_snow:, good food :green_salad:, i love to live my live at fullest. 
-</details>
 
+<div align="center">
 ## 📫Lets get in touch : 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/aleksandr-kulikov/)
-[![Gmail](https://img.shields.io/badge/-Email-090909?style=for-the-badge&logo=Gmail&logoColor=rd)](mailto:laveganfitness@gmail.com)
+   <h2>📫 How to reach me:</h2>
+      <a href="https://www.linkedin.com/feed/"><img src="./icons/linkedin-original.svg" alt="LinkedIn" width="48" height="48"></a>
+      <a href="https://www.upwork.com/freelancers/~01ad14380b45da7448"><img src="./icons/upwork.svg" alt="Upwork" width="48" height="48"></a>
+      <a href="aleksandr.k.workbox@gmail.com"><img src="./icons/Gmail.svg" alt="Gmail" width="48" height="48"></a>
+     </td>
+    </tr>
+</div>
 
 <div align="center">
   <img src="https://github.com/Alexandrkinvincible/Alexandrkinvincible/blob/main/NOT404.jpg" width="1900" height="250"/>
