@@ -16,9 +16,9 @@
 <div align="center">
 ## 📫Lets get in touch : 
    <h2>📫 How to reach me:</h2>
-      <a href="https://www.linkedin.com/feed/"><img src="./icons/linkedin-original.svg" alt="LinkedIn" width="48" height="48"></a>
-      <a href="https://www.upwork.com/freelancers/~01ad14380b45da7448"><img src="./icons/upwork.svg" alt="Upwork" width="48" height="48"></a>
-      <a href="aleksandr.k.workbox@gmail.com"><img src="./icons/Gmail.svg" alt="Gmail" width="48" height="48"></a>
+      <a href="https://www.linkedin.com/feed/"><img src="./icons/icons8-linkedin.svg" alt="LinkedIn" width="48" height="48"></a>
+      <a href="https://www.upwork.com/freelancers/~01ad14380b45da7448"><img src="./icons/icons8-upwork.svg" alt="Upwork" width="48" height="48"></a>
+      <a href="aleksandr.k.workbox@gmail.com"><img src="./icons/icons8-gmail.svg" alt="Gmail" width="48" height="48"></a>
      </td>
     </tr>
 </div>
@@ -28,62 +28,42 @@
 </div>
 <hr>
 
-<div align="center">
- <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=700&size=28&duration=1800&pause=3000&color=0c0062&background=6ECF4200&center=true&vCenter=true&multiline=true&width=600&height=53&lines=🛠+Technologies+and+tools+I'm+working+with:" alt="Typing SVG" /></a> 
-</div>
-
-
-<div align="center">
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height="30" /> &nbsp;
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="30" /> &nbsp;
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30" /> &nbsp;
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30" /> &nbsp;
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="30" /> &nbsp;
-
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" height="30" /> &nbsp;
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" height="30" /> &nbsp;
-<img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" height="30" /> &nbsp;
-<img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white" height="30" /> &nbsp;
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-<img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" height="30" /> &nbsp;
-<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="30" /> &nbsp;
-
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" height="30" /> &nbsp;
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30" /> &nbsp;
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="30" /> &nbsp;
-<img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" height="30" /> &nbsp;
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="30" /> &nbsp;
-
-![Google SHeets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-
-<img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="cwlogo" title="cw" height="30" /> &nbsp;
-<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="30" /> &nbsp;
-<img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white" height="30" /> &nbsp;
-<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height="30" /> &nbsp;
-<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" height="30" /> &nbsp;
-<img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" height="30" /> &nbsp;
-
-<img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white" height="30" /> &nbsp;
-<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" height="30" /> &nbsp;
-<img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" height="30" /> &nbsp;
-<img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" height="30" /> &nbsp;
-<img src="https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=Lighthouse&logoColor=white" height="30" /> &nbsp;
-
-<img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" height="30" /> &nbsp;
-<img src="https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white" height="30" /> &nbsp;
-<img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" height="30" /> &nbsp;
-<img src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white" height="30" /> &nbsp;
-<img src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white" height="30" /> &nbsp;
-
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="30" /> &nbsp;
-<img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" height="30" /> &nbsp;
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="30" /> &nbsp;
-<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" height="30" /> &nbsp;
-</div>
-
 <hr>
-
+<hr>
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<br>
+<p align="center">
+  <code><img title="Python" height="32" src="icons8-python.svg"></code>
+  <code><img title="JavaScript" height="32" src="icons8-javascript.svg"></code>
+  <code><img title="HTML5" height="32" src="icons8-html-5.svg"></code>
+  <code><img title="CSS" height="32" src="icons8-css (1).svg"></code>
+  <code><img title="MySQL" height="32" src="icons8-mysql.svg"></code>
+  <code><img title="Selenium" height="32" src="icons8-selenium.svg"></code>
+  <code><img title="Postman" height="32" src="icons8-postman-api.svg"></code>
+  <code><img title="Replit" height="32" src="icons8-replit.svg"></code>
+  <code><img title="VS" height="32" src="icons8-visual-studio.svg"></code>
+  <code><img title="JIRA" height="32" src="icons8-jira.svg"></code>
+  <code><img title="GitHub" height="32" src="icons8-github (1).svg"></code>
+  <code><img title="Git" height="32" src="icons8-git.svg"></code>
+  <code><img title="Terminal" height="32" src="icons8-terminal-100.png"></code>
+  <code><img title="Node" height="32" src="icons8-node-js.svg"></code>
+  <code><img title="GoogleSheets" height="32" src="icons8-google-sheets.svg"></code>
+  <code><img title="MSOffice height="32" src="icons8-ms-office.svg"></code>
+  <code><img title="Slack" height="32" src="icons8-slack.svg"></code>
+  <code><img title="ZOOM" height="32" src="icons8-zoom.svg"></code>
+  <code><img title="VirtualBox" height="32" src="icons8-virtualbox.svg"></code>
+  <code><img title="Sublime" height="32" src="icons8-sublime-text (1).svg"></code>
+  <code><img title="GoogleChrome" height="32" src="icons8-chrome.svg"></code>
+  <code><img title="Opera" height="32" src="icons8-opera.svg"></code>
+  <code><img title="Edge" height="32" src="icons8-edge.svg"></code>
+  <code><img title="Safari" height="32" src="icons8-safari.svg"></code>
+  <code><img title="Windows" height="32" src="icons8-windows.svg"></code>
+  <code><img title="MacOS" height="32" src="icons8-mac-logo.svg"></code>
+  <code><img title="Android" height="32" src="icons8-android.svg"></code>
+  <code><img title="iOS" height="32" src="icons8-ios.svg"></code>
+  <code><img title="Linux" height="32" src="icons8-linux-64.png"></code>
+</p>
+<hr>
 <div align="center">
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexandrkinvincible&theme=gotham&show_icons=true&)](https://github.com/anuraghazra/github-readme-stats)
