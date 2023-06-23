@@ -33,35 +33,35 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="Python" height="32" src="icons8-python.svg"></code>
-  <code><img title="JavaScript" height="32" src="icons8-javascript.svg"></code>
-  <code><img title="HTML5" height="32" src="icons8-html-5.svg"></code>
-  <code><img title="CSS" height="32" src="icons8-css (1).svg"></code>
-  <code><img title="MySQL" height="32" src="icons8-mysql.svg"></code>
-  <code><img title="Selenium" height="32" src="icons8-selenium.svg"></code>
-  <code><img title="Postman" height="32" src="icons8-postman-api.svg"></code>
-  <code><img title="Replit" height="32" src="icons8-replit.svg"></code>
-  <code><img title="VS" height="32" src="icons8-visual-studio.svg"></code>
-  <code><img title="JIRA" height="32" src="icons8-jira.svg"></code>
-  <code><img title="GitHub" height="32" src="icons8-github (1).svg"></code>
-  <code><img title="Git" height="32" src="icons8-git.svg"></code>
-  <code><img title="Terminal" height="32" src="icons8-terminal-100.png"></code>
-  <code><img title="Node" height="32" src="icons8-node-js.svg"></code>
-  <code><img title="GoogleSheets" height="32" src="icons8-google-sheets.svg"></code>
-  <code><img title="MSOffice height="32" src="icons8-ms-office.svg"></code>
-  <code><img title="Slack" height="32" src="icons8-slack.svg"></code>
-  <code><img title="ZOOM" height="32" src="icons8-zoom.svg"></code>
-  <code><img title="VirtualBox" height="32" src="icons8-virtualbox.svg"></code>
-  <code><img title="Sublime" height="32" src="icons8-sublime-text (1).svg"></code>
-  <code><img title="GoogleChrome" height="32" src="icons8-chrome.svg"></code>
-  <code><img title="Opera" height="32" src="icons8-opera.svg"></code>
-  <code><img title="Edge" height="32" src="icons8-edge.svg"></code>
-  <code><img title="Safari" height="32" src="icons8-safari.svg"></code>
-  <code><img title="Windows" height="32" src="icons8-windows.svg"></code>
-  <code><img title="MacOS" height="32" src="icons8-mac-logo.svg"></code>
-  <code><img title="Android" height="32" src="icons8-android.svg"></code>
-  <code><img title="iOS" height="32" src="icons8-ios.svg"></code>
-  <code><img title="Linux" height="32" src="icons8-linux-64.png"></code>
+  <code><img title="Python" height="32" src="./icons/icons8-python.svg"></code>
+  <code><img title="JavaScript" height="32" src="./icons/icons8-javascript.svg"></code>
+  <code><img title="HTML5" height="32" src="./icons/icons8-html-5.svg"></code>
+  <code><img title="CSS" height="32" src="./icons/icons8-css (1).svg"></code>
+  <code><img title="MySQL" height="32" src="./icons/icons8-mysql.svg"></code>
+  <code><img title="Selenium" height="32" src="./icons/icons8-selenium.svg"></code>
+  <code><img title="Postman" height="32" src="./icons/icons8-postman-api.svg"></code>
+  <code><img title="Replit" height="32" src="./icons/icons8-replit.svg"></code>
+  <code><img title="VS" height="32" src="./icons/icons8-visual-studio.svg"></code>
+  <code><img title="JIRA" height="32" src="./icons/icons8-jira.svg"></code>
+  <code><img title="GitHub" height="32" src="./icons/icons8-github (1).svg"></code>
+  <code><img title="Git" height="32" src="./icons/icons8-git.svg"></code>
+  <code><img title="Terminal" height="32" src="./icons/icons8-terminal-100.png"></code>
+  <code><img title="Node" height="32" src="./icons/icons8-node-js.svg"></code>
+  <code><img title="GoogleSheets" height="32" src="./icons/icons8-google-sheets.svg"></code>
+  <code><img title="MSOffice height='32' src="./icons/icons8-ms-office.svg"></code>
+  <code><img title="Slack" height="32" src="./icons/icons8-slack.svg"></code>
+  <code><img title="ZOOM" height="32" src="./icons/icons8-zoom.svg"></code>
+  <code><img title="VirtualBox" height="32" src="./icons/icons8-virtualbox.svg"></code>
+  <code><img title="Sublime" height="32" src="./icons/icons8-sublime-text (1).svg"></code>
+  <code><img title="GoogleChrome" height="32" src="./icons/icons8-chrome.svg"></code>
+  <code><img title="Opera" height="32" src="./icons/icons8-opera.svg"></code>
+  <code><img title="Edge" height="32" src="./icons/icons8-edge.svg"></code>
+  <code><img title="Safari" height="32" src="./icons/icons8-safari.svg"></code>
+  <code><img title="Windows" height="32" src="./icons/icons8-windows.svg"></code>
+  <code><img title="MacOS" height="32" src="./icons/icons8-mac-logo.svg"></code>
+  <code><img title="Android" height="32" src="./icons/icons8-android.svg"></code>
+  <code><img title="iOS" height="32" src="./icons/icons8-ios.svg"></code>
+  <code><img title="Linux" height="32" src="./icons/icons8-linux-64.png"></code>
 </p>
 <hr>
 <div align="center">
