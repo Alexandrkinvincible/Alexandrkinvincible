@@ -28,7 +28,7 @@
 </div>
 <hr>
 
-<hr>
+
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
@@ -48,7 +48,7 @@
   <code><img title="Terminal" height="32" src="./icons/icons8-terminal-100.png"></code>
   <code><img title="Node" height="32" src="./icons/icons8-node-js.svg"></code>
   <code><img title="GoogleSheets" height="32" src="./icons/icons8-google-sheets.svg"></code>
-  <code><img title="MSOffice height='32' src="./icons/icons8-ms-office.svg"></code>
+  <code><img title="MsOffice" height="32" src="./icons/icons8-ms-office.svg"></code>
   <code><img title="Slack" height="32" src="./icons/icons8-slack.svg"></code>
   <code><img title="ZOOM" height="32" src="./icons/icons8-zoom.svg"></code>
   <code><img title="VirtualBox" height="32" src="./icons/icons8-virtualbox.svg"></code>
