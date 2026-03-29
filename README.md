@@ -1,74 +1,173 @@
 <div align="center">
 
-<img src="https://github.com/Alexandrkinvincible/Alexandrkinvincible/blob/main/ezgif.com-gif-maker.gif"/>
+<!-- Animated Typing Header -->
+<a href="https://github.com/Alexandrkinvincible">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Alex+%F0%9F%91%8B;Founder+%7C+Builder+%7C+Engineer;Turning+ideas+into+funded+startups;Shipping+products+that+matter" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Founder badges -->
+<a href="https://veroid.ai"><img src="https://img.shields.io/badge/🔐_VeroID.ai-Founder_&_CEO-0A0A0A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6bTAgMThjLTQuNDIgMC04LTMuNTgtOC04czMuNTgtOCA4LTggOCAzLjU4IDggOC0zLjU4IDgtOCA4eiIgZmlsbD0iIzAwRDRGRiIvPjwvc3ZnPg==&labelColor=0A0A0A&color=00D4FF" /></a>
+&nbsp;
+<a href="https://veroqt.io"><img src="https://img.shields.io/badge/📈_VeroQT.io-Founder_&_CEO-0A0A0A?style=for-the-badge&labelColor=0A0A0A&color=00FF88" /></a>
+&nbsp;
+<img src="https://img.shields.io/badge/Provisional_Patent-Filed_2026-0A0A0A?style=for-the-badge&logo=google-scholar&logoColor=FFD700&labelColor=0A0A0A&color=FFD700" />
+
+<br/><br/>
+
+<!-- Profile views counter -->
+<img src="https://komarev.com/ghpvc/?username=Alexandrkinvincible&style=for-the-badge&color=00D4FF&label=PROFILE+VIEWS" />
 
 </div>
 
+---
 
-<div align="center"><h2>
-✨&nbsp; Press here to read more About me ✨&nbsp;
-</h2></div>
+## 🧠 About Me
 
-* In my hands-on experience in Quality Assurance, i do Manual and Automation performance and load Testing of Desktop and Mobile Web, Client/Server, and Cloud Based Applications. End-to-End, regression, performance and other types of testing. Working knowledge of the Agile / SCRUM / Waterfall software testing methodologies..
-* Fast Learner and totally team player ! :octocat::octocat::octocat::octocat:
-* I fell that i'm tallanted in many ways. I love sports :weight_lifting_man: :lotus_position_man:, reading books :open_book:, traveling :mountain_snow:, good food :green_salad:, i love to live my live at fullest. 
+```typescript
+const alex = {
+  title:      "Founder · Builder · Engineer",
+  location:   "Spartanburg, SC 🇺🇸",
+  ventures:   ["VeroID.ai", "VeroQT.io"],
+  building:   "Hardware-layer biometric security & AI-driven forex automation",
+  background: "QA Engineering → Full-Stack Dev → Multi-venture Founder",
+  patent:     "Provisional patent filed (2026) — Haptic Sync™ voice liveness detection",
+  mindset:    "Ship fast. Secure everything. Scale relentlessly.",
+};
+```
+
+---
+
+## 🚀 My Startups
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 [VeroID.ai](https://veroid.ai)
+**Hardware-Layer Voice Liveness Detection**
+
+> Stopping voice cloning & deepfakes at the hardware level using smartphone IMU sensors to detect bio-mechanical laryngeal resonance — the human vibration a speaker can never fake.
+
+**What makes it different:**
+- 📡 Measures bio-mechanical coupling between mic audio & IMU vibrations
+- 🛡️ Defeats voice clones, speaker playback & virtual sensor spoofing
+- 🔬 Patented approach (Provisional — 2026)
+- 🏗️ Built from scratch with a technical co-founder
+
+![Status](https://img.shields.io/badge/Status-Active_Development-00D4FF?style=flat-square)
+![Stage](https://img.shields.io/badge/Stage-Pre--Seed-FFD700?style=flat-square)
+![Patent](https://img.shields.io/badge/IP-Provisional_Patent_Filed-success?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 [VeroQT.io](https://veroqt.io)
+**AI-Powered Forex Signal Automation**
+
+> End-to-end automated forex signal mirroring service — from institutional-grade trader signals to MT5 execution on client accounts, fully automated.
+
+**Tech stack running live:**
+- 🖥️ IONOS VPS + MT5 terminal
+- 🐍 Python signal bot (`signal_bot.py`)
+- ⚡ Node.js/Express webhook backend
+- 🗄️ Supabase real-time database
+- 📲 Telegram channel delivery
+- 🤖 MQL5 Expert Advisor (EA) on client end
+
+![Status](https://img.shields.io/badge/Status-Phase_1_Complete-00FF88?style=flat-square)
+![Stack](https://img.shields.io/badge/Stack-MT5_+_Node.js_+_Python-blue?style=flat-square)
+![Infra](https://img.shields.io/badge/Infra-Live_VPS-success?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
-## 📫Lets get in touch : 
-   <h2>📫 How to reach me:</h2>
-      <a href="https://www.linkedin.com/feed/"><img src="./icons/icons8-linkedin.svg" alt="LinkedIn" width="48" height="48"></a>
-      <a href="https://www.upwork.com/freelancers/~01ad14380b45da7448"><img src="./icons/upwork.svg" alt="Upwork" width="48" height="48"></a>
-      <a href="aleksandr.k.workbox@gmail.com"><img src="./icons/icons8-gmail.svg" alt="Gmail" width="48" height="48"></a>
-     </td>
-    </tr>
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MQL5](https://img.shields.io/badge/MQL5-00A651?style=for-the-badge&logo=metatrader5&logoColor=white)
+
+**Backend & Runtime**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+**Infrastructure & Tools**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VPS](https://img.shields.io/badge/IONOS_VPS-003D8F?style=for-the-badge&logo=ionos&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram_Bot_API-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![Google Places API](https://img.shields.io/badge/Google_Places_API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
+
+**Security & Testing Background**
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![OWASP](https://img.shields.io/badge/Security_First-OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+
 </div>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github.com/Alexandrkinvincible/Alexandrkinvincible/blob/main/NOT404.jpg" width="1900" height="250"/>
+
+> ⚡ Most active work lives in **private repositories** — VeroQT and VeroID ship in private until launch-ready.
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Alexandrkinvincible&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00FF88&text_color=FFFFFF&ring_color=00D4FF" />
+&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandrkinvincible&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" />
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Alexandrkinvincible&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00D4FF&fire=00FF88&currStreakLabel=00D4FF)](https://git.io/streak-stats)
+
 </div>
-<hr>
 
+---
 
-<hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-<br>
-<p align="center">
-  <code><img title="Python" height="48" src="./icons/icons8-python.svg"></code>
-  <code><img title="JavaScript" height="48" src="./icons/icons8-javascript.svg"></code>
-  <code><img title="HTML5" height="48" src="./icons/icons8-html-5.svg"></code>
-  <code><img title="CSS" height="48" src="./icons/icons8-css (1).svg"></code>
-  <code><img title="MySQL" height="48" src="./icons/icons8-mysql.svg"></code>
-  <code><img title="Selenium" height="48" src="./icons/icons8-selenium.svg"></code>
-  <code><img title="Postman" height="48" src="./icons/icons8-postman-api.svg"></code>
-  <code><img title="Replit" height="48" src="./icons/icons8-replit.svg"></code>
-  <code><img title="VS" height="48" src="./icons/icons8-visual-studio.svg"></code>
-  <code><img title="JIRA" height="48" src="./icons/icons8-jira.svg"></code>
-  <code><img title="GitHub" height="48" src="./icons/icons8-github (1).svg"></code>
-  <code><img title="Git" height="48" src="./icons/icons8-git.svg"></code>
-  <code><img title="Terminal" height="48" src="./icons/icons8-terminal-100.png"></code>
-  <code><img title="Node" height="48" src="./icons/icons8-node-js.svg"></code>
-  <code><img title="GoogleSheets" height="48" src="./icons/icons8-google-sheets.svg"></code>
-  <code><img title="MsOffice" height="48" src="./icons/icons8-ms-office.svg"></code>
-  <code><img title="Slack" height="48" src="./icons/icons8-slack.svg"></code>
-  <code><img title="ZOOM" height="48" src="./icons/icons8-zoom.svg"></code>
-  <code><img title="VirtualBox" height="48" src="./icons/icons8-virtualbox.svg"></code>
-  <code><img title="Sublime" height="48" src="./icons/icons8-sublime-text (1).svg"></code>
-  <code><img title="GoogleChrome" height="48" src="./icons/icons8-chrome.svg"></code>
-  <code><img title="Opera" height="48" src="./icons/icons8-opera.svg"></code>
-  <code><img title="Edge" height="48" src="./icons/icons8-edge.svg"></code>
-  <code><img title="Safari" height="48" src="./icons/icons8-safari.svg"></code>
-  <code><img title="Windows" height="48" src="./icons/icons8-windows.svg"></code>
-  <code><img title="MacOS" height="48" src="./icons/icons8-mac-logo.svg"></code>
-  <code><img title="Android" height="48" src="./icons/icons8-android.svg"></code>
-  <code><img title="iOS" height="48" src="./icons/icons8-ios.svg"></code>
-  <code><img title="Linux" height="48" src="./icons/icons8-linux-64.png"></code>
-</p>
-<hr>
+## 🏗️ What I'm Currently Building
+
+- 🔐 **VeroID.ai** — Finalizing the core Haptic Sync™ detection engine and hardening against virtual sensor spoofing
+- 📈 **VeroQT.io** — Live signal pipeline in final end-to-end testing (MT5 ↔ FX Blue ↔ Telegram ↔ EA)
+- 🌐 **Registration portal** — Google Places API autocomplete integration for client onboarding
+- 🔒 **Security research** — IMU spoofing vectors and biometric attack surface mapping
+
+---
+
+## 🤝 Let's Connect
+
 <div align="center">
- 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexandrkinvincible&theme=gotham&show_icons=true&)](https://github.com/anuraghazra/github-readme-stats)
+
+[![VeroID](https://img.shields.io/badge/VeroID.ai-Website-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://veroid.ai)
+[![VeroQT](https://img.shields.io/badge/VeroQT.io-Website-00FF88?style=for-the-badge&logo=googlechrome&logoColor=white)](https://veroqt.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Alexandrkinvincible)
 
 </div>
 
-<hr>
+---
 
+<div align="center">
+
+*"The best security is the kind attackers don't even know exists."*
+
+**Building the infrastructure of trust — one startup at a time.**
+
+</div>
