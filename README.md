@@ -129,15 +129,15 @@ const alex = {
 
 <div align="center">
 
-> ⚡ Most active work lives in **private repositories** — VeroQT and VeroID ship in private until launch-ready.
+> ⚡ Most active work lives in **private repositories** — VeroQT and VeroID ship in private until launch-ready.  
+> Enable **"Include private contributions"** in your GitHub settings to reflect real activity on the graph.
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Alexandrkinvincible&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00FF88&text_color=FFFFFF&ring_color=00D4FF" />
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandrkinvincible&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=Alexandrkinvincible&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00D4FF&fire=00FF88&currStreakLabel=00D4FF)](https://github.com/Alexandrkinvincible)
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Alexandrkinvincible&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00D4FF&fire=00FF88&currStreakLabel=00D4FF)](https://git.io/streak-stats)
+<!-- Activity graph — more reliable than readme-stats cards -->
+[![Alex's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alexandrkinvincible&bg_color=0D1117&color=00D4FF&line=00FF88&point=FFFFFF&hide_border=true)](https://github.com/Alexandrkinvincible)
 
 </div>
 
