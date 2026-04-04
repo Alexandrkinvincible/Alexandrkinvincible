@@ -76,7 +76,7 @@ const alex = {
 - 📲 Telegram channel delivery
 - 🤖 MQL5 Expert Advisor (EA) on client end
 
-![Status](https://img.shields.io/badge/Status-Phase_1_Complete-00FF88?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Phase_3_Complete-00FF88?style=flat-square)
 ![Stack](https://img.shields.io/badge/Stack-MT5_+_Node.js_+_Python-blue?style=flat-square)
 ![Infra](https://img.shields.io/badge/Infra-Live_VPS-success?style=flat-square)
 
